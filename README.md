@@ -2,12 +2,14 @@
 
 #### WEB Developer | PHP | Full-Stack
 
-I'm a web developer since 2021. T've worked as full-stack and these are the stacks which i have proven experience in:
+I'm a web developer since 2021. I've worked as full-stack and these are the stacks which i have proven experience in:
 - Back-end: PHP, Laravel, CakePHP, Python
 - Front-end: HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, React, React Native
 - Database: MySQL, PostgreSQL, Firebase 
-- DevOps: Linux, Ubuntu, Apache2, VPS
+- DevOps: Linux, Ubuntu, VPS, Apache2
 - Code Versioning: Git, GitHub, GitLab, Bitbucket
+
+I'm located in Brazil, Campo Grande, Mato Grosso do Sul.
 
 ## 🥇Education
 
